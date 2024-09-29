@@ -10,6 +10,7 @@ Seasonality and Variations
 This is achieved by creating bar charts that show sales per month and per year.
 Additional visualizations, such as line graphs, were used to further explore seasonal trends and variations.
   ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/Total_sales_Graph.png?raw=true)
+  ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/Seasonality_and_variation_graph.png?raw=true)
 
 ## 2. Product Data Analysis to Determine Top 10 Performing Products
 - This analysis was conducted to identify trends and patterns in the top 10 performing products and regions, based on sales data from 2015, July 2016, and September 2017.
