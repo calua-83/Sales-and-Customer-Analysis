@@ -1,5 +1,5 @@
 # Adventure Works Sales and Customer Analysis
-## Perform Sales and Customer Analysis to gain insights and improve business performance.
+### Perform Sales and Customer Analysis to gain insights and improve business performance.
 
 ## Purpose
 The purpose of this analysis is to help Adventure Works gain insights into their sales data and identify opportunities to improve revenue.
