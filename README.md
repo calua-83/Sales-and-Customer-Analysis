@@ -36,5 +36,5 @@ Here’s a summary of the observations based on the visualizations:
 #### Customer Distribution by Region (Pie Chart):
 - The pie chart illustrates the proportion of customers in each region.
 - This helps identify which regions have the most or least customers, providing insights into market penetration and highlighting potential areas for growth.
-  ![]()
+  ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/customer_distribution_by_region.png?raw=true)
   ![]()
