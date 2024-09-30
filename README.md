@@ -9,7 +9,7 @@ This analysis covers sales data for a period of 3 years (2015-2017). The aim is 
 Seasonality and Variations
 This is achieved by creating bar charts that show sales per month and per year.
 Additional visualizations, such as line graphs, were used to further explore seasonal trends and variations.
-  ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/Total_sales_Graph.png?raw=true)
+ ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/Total_sales_Graph.png?raw=true)
   ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/Seasonality_and_variation_graph.png?raw=true)
 
 ## 2. Product Data Analysis to Determine Top 10 Performing Products
