@@ -17,6 +17,7 @@ Additional visualizations, such as line graphs, were used to further explore sea
 ####  Top Performing Products by Sales:
 - We identified the best sellers by analyzing the ProductName with the highest TotalSales, indicating the products that are most popular among customers.
 - We also analyzed sales contributions, looking at how much each product contributes to overall sales. This helps understand the relative performance of each product.
+  ![](https://github.com/calua-83/Sales-and-Customer-Analysis/blob/main/top_ten_perfoming_products.png?raw=true)
 ####  Sales Distribution by Region:
 - Regional performance was analyzed to identify which regions had the highest sales for the top products, indicating geographic preferences or market trends.
 - We evaluated diversity in sales: Products that perform well in multiple regions may have universal appeal, while others may highlight regional preferences or indicate the need for targeted marketing strategies.
